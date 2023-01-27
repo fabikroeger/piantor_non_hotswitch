@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "keyswitches")(type "KiCad")(uri "/home/fabian/git/keebs/piantor_non_hotswitch/keyswitches.pretty")(options "")(descr ""))
+  (lib (name "trrs_audiojack")(type "KiCad")(uri "/home/fabian/git/keebs/piantor_non_hotswitch/audio_jack.pretty")(options "")(descr ""))
+)
