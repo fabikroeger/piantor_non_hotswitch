@@ -58,7 +58,7 @@
     (pad_to_mask_clearance 0)
     (grid_origin 167.3 60)
     (pcbplotparams
-      (layerselection 0x0020000_7ffffffe)
+      (layerselection 0x0000800_7ffffffe)
       (disableapertmacros false)
       (usegerberextensions true)
       (usegerberattributes true)
@@ -86,7 +86,7 @@
       (subtractmaskfromsilk false)
       (outputformat 3)
       (mirror false)
-      (drillshape 2)
+      (drillshape 0)
       (scaleselection 1)
       (outputdirectory "./gerber")
     )
