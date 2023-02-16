@@ -402,7 +402,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "../../../keyboard_pcb.dsn",
-      "step": "keyboard_pcb.step",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
