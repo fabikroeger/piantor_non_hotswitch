@@ -400,6 +400,7 @@
     "rule_severities": {
       "bus_definition_conflict": "error",
       "bus_entry_needed": "error",
+      "bus_label_syntax": "error",
       "bus_to_bus_conflict": "error",
       "bus_to_net_conflict": "error",
       "conflicting_netclasses": "error",
@@ -500,24 +501,7 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": [
-      {
-        "netclass": "PWR",
-        "pattern": "GND"
-      },
-      {
-        "netclass": "PWR",
-        "pattern": "VBUS"
-      },
-      {
-        "netclass": "PWR",
-        "pattern": "VCC"
-      },
-      {
-        "netclass": "SIGNAL",
-        "pattern": "*"
-      }
-    ]
+    "netclass_patterns": []
   },
   "pcbnew": {
     "last_paths": {
