@@ -3291,7 +3291,7 @@
   )
 
   (symbol (lib_id "keyboard_parts:KEYSW") (at 137.16 60.96 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 9dd6772e-ed36-40d9-bc93-987b987d9bc6)
     (property "Reference" "K20" (at 137.16 55.88 0)
       (effects (font (size 1.524 1.524)))
@@ -3967,7 +3967,7 @@
   )
 
   (symbol (lib_id "keyboard_parts:KEYSW") (at 162.56 60.96 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board no) (dnp yes)
     (uuid e0e7955b-d8e1-40e6-8c21-1d8aac3d0cb0)
     (property "Reference" "K21" (at 162.56 55.88 0)
       (effects (font (size 1.524 1.524)))
