@@ -3123,7 +3123,7 @@
     (property "Value" "Pico" (at 50.8 24.13 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "RPi_Pico:RPi_Pico_SMD_TH" (at 50.8 53.34 90)
+    (property "Footprint" "misc:RPi_Pico_SMD_TH" (at 50.8 53.34 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf" (at 50.8 53.34 0)
