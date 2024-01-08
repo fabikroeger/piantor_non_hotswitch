@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name "keyboard_parts")(type "KiCad")(uri "/home/fabian/git/keebs/piantor_non_hotswitch/keysw.kicad_sym")(options "")(descr ""))
+  (version 7)
+  (lib (name "keyboard_parts")(type "KiCad")(uri "${KIPRJMOD}/../../keysw.kicad_sym")(options "")(descr ""))
+  (lib (name "mcp23009")(type "KiCad")(uri "/mnt/raid_pool/nextcloud/Dokumente/Projekte/keebs/piantor_non_hotswitch/MCP23009_E_SO.kicad_sym")(options "")(descr ""))
 )
