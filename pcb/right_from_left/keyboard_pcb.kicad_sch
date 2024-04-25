@@ -4727,7 +4727,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "02613d1f-4b51-48bd-9064-cde772460dd5")
 		(property "Reference" "K32"
@@ -4862,7 +4862,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "055cb90c-23ad-4be6-b25a-b0fb6f36756d")
 		(property "Reference" "TP1"
@@ -5329,7 +5329,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "253638e3-1675-4bdf-b979-1cc0dcef1018")
 		(property "Reference" "U1"
@@ -5448,7 +5448,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2676e880-31c4-4bb9-8f83-b5559a2872ee")
 		(property "Reference" "K24"
 			(at 238.76 55.88 0)
@@ -5720,7 +5720,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2cd2ee6e-af2a-43ce-aa7e-58b5c17fc3c8")
 		(property "Reference" "K0"
@@ -5827,7 +5827,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://www.we-online.com/en/components/products/SMSI_SMT_STEEL_SPACER_M2_5_THREAD_INTERNAL#9774020151R"
 			(at 20.32 166.37 0)
 			(effects
 				(font
@@ -5985,7 +5985,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "37353a87-fcd6-4c4c-b000-b22bbb779526")
 		(property "Reference" "K15"
@@ -6222,7 +6222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://www.we-online.com/en/components/products/SMSI_SMT_STEEL_SPACER_M2_5_THREAD_INTERNAL#9774020151R"
 			(at 20.32 153.67 0)
 			(effects
 				(font
@@ -6379,7 +6379,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "54806f1f-1157-4537-9759-fe03678c206a")
 		(property "Reference" "K3"
@@ -6649,7 +6649,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "59d46e01-3370-45c0-b655-67e30d4bd9cb")
 		(property "Reference" "K2"
@@ -6718,7 +6718,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5c3d7d74-dde3-4ed7-8c8b-9834e1dad91c")
 		(property "Reference" "K11"
@@ -6854,7 +6854,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "636461a5-0da4-400a-8dd0-5a82fb0d2ee5")
 		(property "Reference" "K22"
 			(at 187.96 55.88 0)
@@ -7315,7 +7315,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "755e8e34-c13a-49be-8e1b-546c6909cfb1")
 		(property "Reference" "K4"
@@ -7719,7 +7719,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "80483bad-ef9f-4cca-b0e9-d32213f420fd")
 		(property "Reference" "K30"
@@ -7989,7 +7989,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8901fa8c-a4aa-47e4-b9d5-827b4e7d5c4d")
 		(property "Reference" "J1"
@@ -8197,7 +8197,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "98d54763-28c1-4e13-8824-0e79895fbddc")
 		(property "Reference" "U2"
@@ -8389,7 +8389,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "9dd6772e-ed36-40d9-bc93-987b987d9bc6")
 		(property "Reference" "K20"
 			(at 137.16 55.88 0)
@@ -8589,7 +8589,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ae094f5a-31e9-43f5-8696-6f737f440fd7")
 		(property "Reference" "K23"
 			(at 213.36 55.88 0)
@@ -8724,7 +8724,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "b4241be9-1d03-4b7d-96ed-4ef26aa15e0b")
 		(property "Reference" "K10"
@@ -8793,7 +8793,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b5cead6f-dcdf-499e-bfad-67a021a50a6a")
 		(property "Reference" "K1"
 			(at 162.56 24.13 0)
@@ -8861,7 +8861,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ba70a6bc-91cd-4f4c-a9c1-72f89e525e44")
 		(property "Reference" "K25"
 			(at 264.16 55.88 0)
@@ -8996,7 +8996,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "beda58ac-1604-4e5a-89ad-445a2aabcd6d")
 		(property "Reference" "K31"
@@ -9173,7 +9173,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://www.we-online.com/en/components/products/SMSI_SMT_STEEL_SPACER_M2_5_THREAD_INTERNAL#9774020151R"
 			(at 20.32 160.02 0)
 			(effects
 				(font
@@ -9331,7 +9331,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ca92f715-dac0-40a6-8a8b-22a004805340")
 		(property "Reference" "K14"
@@ -9599,7 +9599,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "dbf82bf7-7033-48e5-8df3-0fec63fdd5c1")
 		(property "Reference" "K13"
@@ -9868,7 +9868,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e0e7955b-d8e1-40e6-8c21-1d8aac3d0cb0")
 		(property "Reference" "K21"
 			(at 162.56 55.88 0)
@@ -9936,7 +9936,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "e1456dda-1219-4005-a3f9-7f00ce771756")
 		(property "Reference" "K12"
@@ -10109,7 +10109,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://www.we-online.com/en/components/products/SMSI_SMT_STEEL_SPACER_M2_5_THREAD_INTERNAL#9774020151R"
 			(at 20.32 172.72 0)
 			(effects
 				(font
@@ -10443,7 +10443,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://www.we-online.com/en/components/products/SMSI_SMT_STEEL_SPACER_M2_5_THREAD_INTERNAL#9774020151R"
 			(at 20.32 147.32 0)
 			(effects
 				(font
@@ -10707,7 +10707,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://www.we-online.com/en/components/products/SMSI_SMT_STEEL_SPACER_M2_5_THREAD_INTERNAL#9774020151R"
 			(at 20.32 179.07 0)
 			(effects
 				(font
@@ -10803,7 +10803,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ff511afa-d055-4ed4-b8a5-ae74b212421e")
 		(property "Reference" "K5"
